@@ -3,10 +3,9 @@ import axios from 'axios'
 import Card from './Card'
 
 
+
 const api_key = 'DEMO_KEY'
 const URL = `https://api.nasa.gov/planetary/apod?api_key=${api_key}`
-
-
 
 
 function App() {
